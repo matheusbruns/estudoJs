@@ -37,3 +37,13 @@ footer{
   font-style: italic;
   padding: 10px;
 }
+
+@media (max-width:550px){
+  section{
+    width: 90%;
+    
+  }
+  section img{
+    height: 200px;
+  }
+}
