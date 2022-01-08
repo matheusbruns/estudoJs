@@ -12,6 +12,7 @@ body{
 header{
   text-align: center;
   color: #fff;
+  margin-top: 20px;
 }
 
 section{
@@ -25,6 +26,10 @@ section{
 }
 section img{
   height: 300px;
+  margin-top: 10px;
+}
+div#msg{
+  padding: 10px;
 }
 footer{
   color: #fff;
